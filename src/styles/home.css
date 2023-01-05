@@ -1,0 +1,22 @@
+.homeDiv{
+    background: white;
+    display: block;
+    width: 75%;
+    height: 55vh;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    border-radius: 10px; 
+    border: 1px solid ghostwhite;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;   
+}
+
+.divLabel{
+    margin: 10px;
+    float: left;
+    font-size: 15px;
+}
+
+
+
